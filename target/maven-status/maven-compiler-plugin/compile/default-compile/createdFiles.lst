@@ -1,0 +1,8 @@
+com/demo/movie/service/MovieServiceImpl.class
+com/demo/movie/service/MovieService.class
+com/demo/movie/exception/NotFoundException.class
+com/demo/movie/util/WebResponse.class
+com/demo/movie/repository/MovieRepository.class
+com/demo/movie/controller/MovieController.class
+com/demo/movie/MovieApplication.class
+com/demo/movie/model/Movie.class
