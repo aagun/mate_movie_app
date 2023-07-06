@@ -28,7 +28,7 @@
 
 # Menjalankan program
 
-1. Clone repo `movie-app`
-2. Masuk kedalam folder movie-app menggunakan terminal / cmd
+1. Clone repo `mate_movie_app_api`
+2. Masuk kedalam folder movie-app menggunakan ``terminal`` atau ``cmd``
 3. Ketik perintah `mvn clean install` kemudian tunggu proses downlaod dependencies selesai
 4. Kemudian ketik perintah `mvn spring-boot:run` dan tunggu sampai proses build dan deploy program selesai
